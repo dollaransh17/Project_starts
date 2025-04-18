@@ -109,7 +109,7 @@ height: 60px;
 #check:checked ~ .btn_one i{
     opacity: 0;
 }
-/* sidebar menu ka child hai button 2*/
+/* sidebar menu 's child ---> button 2*/
 #check:checked ~ .sidebar_menu .btn_two{
     opacity: 1;
 }
@@ -119,3 +119,5 @@ height: 60px;
 .btn_two i{
     transition: 0.2s linear;
 }
+
+  
